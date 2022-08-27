@@ -1,0 +1,126 @@
+[
+  {
+    "id": "001",
+    "name": "游戏世界",
+    "keywords": [
+      "Switch",
+      "精灵宝可梦",
+      "怪物猎人系列",
+      "塞尔达传说",
+      "上古卷轴系列",
+      "GTA系列"
+    ],
+    "imgUrl": "/images/You01.jpg",
+    "navList": [
+      {
+        "url": "#",
+        "text": "热门"
+      },
+      {
+        "url": "#",
+        "text": "赛博朋克2077"
+      },
+      {
+        "url": "#",
+        "text": "CarX Street"
+      },
+      {
+        "url": "#",
+        "text": "最终幻想：起源"
+      },
+      {
+        "url": "#",
+        "text": "浩劫前夕"
+      }
+    ],
+    "carouselList": [
+      {
+        "id": "0011",
+        "imgUrl": "/images/You10.jpg"
+      },
+      {
+        "id": "0012",
+        "imgUrl": "/images/You09.jpg"
+      },
+      {
+        "id": "0013",
+        "imgUrl": "/images/You08.jpg"
+      },
+      {
+        "id": "0014",
+        "imgUrl": "/images/You07.jpg"
+      }
+    ],
+    "recommendList": [
+      "/images/You02.jpg",
+      "/images/You03.jpg",
+      "/images/You04.jpg",
+      "/images/You05.jpg"
+    ],
+    "bigImg": "/images/You06.jpg"
+  },
+  {
+    "id": "002",
+    "name": "文学艺术",
+    "keywords": [
+      "唱片专辑",
+      "古典音乐",
+      "世界名著",
+      "艺术字画",
+      "前卫艺术",
+      "历史复刻"
+    ],
+    "imgUrl": "/images/Yi04.jpg",
+    "navList": [
+      {
+        "url": "#",
+        "text": "放克音乐"
+      },
+      {
+        "url": "#",
+        "text": "节奏蓝调"
+      },
+      {
+        "url": "#",
+        "text": "印象画"
+      },
+      {
+        "url": "#",
+        "text": "加缪"
+      },
+      {
+        "url": "#",
+        "text": "希区柯克"
+      },
+      {
+        "url": "#",
+        "text": "凯鲁亚克"
+      }
+    ],
+    "carouselList": [
+      {
+        "id": "0011",
+        "imgUrl": "/images/Yi08.jpg"
+      },
+      {
+        "id": "0012",
+        "imgUrl": "/images/Yi09.jpg"
+      },
+      {
+        "id": "0013",
+        "imgUrl": "/images/Yi07.jpg"
+      },
+      {
+        "id": "0014",
+        "imgUrl": "/images/Yi10.jpg"
+      }
+    ],
+    "recommendList": [
+      "/images/Yi01.jpg",
+      "/images/Yi02.jpg",
+      "/images/Yi03.jpg",
+      "/images/Yi05.jpg"
+    ],
+    "bigImg": "/images/Yi06.jpg"
+  }
+]

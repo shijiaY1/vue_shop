@@ -1,0 +1,28 @@
+app@0.1.0 C:\Users\Administrator\Desktop\try\start\app
++-- _@vue_devtools-api@6.0.2@@vue@ extraneous
++-- _vue-router@4.0.12@vue-router@npm:vue-router@4.0.12 extraneous
++-- @vue/cli-plugin-babel@4.5.15
++-- @vue/cli-plugin-eslint@4.5.15
++-- @vue/cli-service@4.5.15
++-- @vue/devtools-api@6.0.2 extraneous -> .\node_modules\_@vue_devtools-api@6.0.2@@vue\devtools-api
++-- axios@0.26.0 -> .\node_modules\_axios@0.26.0@axios
++-- babel-eslint@10.1.0
++-- bindings@1.5.0 extraneous
++-- copy-anything@2.0.6 extraneous -> .\node_modules\_copy-anything@2.0.6@copy-anything
++-- core-js@3.21.0
++-- eslint-plugin-vue@6.2.2
++-- eslint@6.8.0
++-- file-uri-to-path@1.0.0 extraneous
++-- image-size@0.5.5 extraneous -> .\node_modules\_image-size@0.5.5@image-size
++-- is-what@3.14.1 extraneous -> .\node_modules\_is-what@3.14.1@is-what
++-- less-loader@5.0.0 -> .\node_modules\_less-loader@5.0.0@less-loader
++-- less@4.1.2 -> .\node_modules\_less@4.1.2@less
++-- nan@2.15.0 extraneous
++-- needle@2.9.1 extraneous -> .\node_modules\_needle@2.9.1@needle
++-- nprogress@0.2.0 -> .\node_modules\_nprogress@0.2.0@nprogress
++-- parse-node-version@1.0.1 extraneous -> .\node_modules\_parse-node-version@1.0.1@parse-node-version
++-- vue-router@3.5.3 -> .\node_modules\_vue-router@3.5.3@vue-router
++-- vue-template-compiler@2.6.14
++-- vue@2.6.14
+`-- vuex@4.0.2 -> .\node_modules\_vuex@4.0.2@vuex
+

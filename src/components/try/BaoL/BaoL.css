@@ -1,0 +1,29 @@
+.container1{
+    position: relative;
+    width: 1px;
+    height: 1px;
+    transform-style: preserve-3d;
+    transform: perspective(150px) rotateX(60deg) translateZ(-10px) translate(-500px,10px);
+}
+.container1 span{
+    position: absolute;
+    top: calc(-7px * var(--i));
+    left: calc(-25px * var(--i));
+    bottom: calc(25px * var(--i));
+    right: calc(115px * var(--i));
+    border: 3px solid rgba(0, 0, 0, 0.8);
+    box-shadow: 0 6px 0 rgb(205, 189, 189),
+    inset 0 6px 0 rgba(0, 0, 0, 0.9);
+    /* background-color: rgba(0, 162, 255,0); */
+    border-radius: 50%;
+    animation: move 1.5s ease-in-out infinite alternate;
+    animation-delay: calc(var(--i) * 0.1s);
+}
+@keyframes move{
+    0%,100%{
+        transform: translateZ(0px);
+    }
+    50%{
+        transform: translateZ(-100px);
+    }
+}
